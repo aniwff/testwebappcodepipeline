@@ -124,14 +124,76 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\axios.js" />
+    <Content Include="Scripts\axios.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jszip.min.js" />
+    <Content Include="Scripts\kendoui\2021.1.119\kendo.all.min.js" />
+    <Content Include="Scripts\kendoui\kendo-buttons-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-charts-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-data-query.js" />
+    <Content Include="Scripts\kendoui\kendo-datasource-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-dateinputs-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-dialog-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-dropdowns-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-editor-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-grid-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-inputs-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-layout-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-popups-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-scrollview-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-upload-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-validator-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo-vue-animation.js" />
+    <Content Include="Scripts\kendoui\kendo-vue-dateinputs.js" />
+    <Content Include="Scripts\kendoui\kendo-vue-intl.js" />
+    <Content Include="Scripts\kendoui\kendo-window-vue-wrapper.js" />
+    <Content Include="Scripts\kendoui\kendo.all.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\nifty-v2.9.1\bootstarp-wizard\jquery.bootstrap.wizard.min.js" />
+    <Content Include="Scripts\nifty-v2.9.1\bootstrap.js" />
+    <Content Include="Scripts\nifty-v2.9.1\bootstrap.min.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\bg-images.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\dashboard-2.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\dashboard.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\easy-pie-chart.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\flot-charts.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\form-component.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\form-file-upload.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\form-text-editor.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\form-validation.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\form-wizard.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\icons.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\mail.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\misc-fullcalendar.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\misc-gmaps.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\morris-js.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\nifty-demo.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\nifty-demo.min.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\sparklines.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\tables-bs-table.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\tables-datatables.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\tables-footable.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\ui-alerts.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\ui-buttons.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\ui-modals.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\ui-panels.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\widgets.js" />
+    <Content Include="Scripts\nifty-v2.9.1\demo\x-editable-data.js" />
+    <Content Include="Scripts\nifty-v2.9.1\jquery.min.js" />
+    <Content Include="Scripts\nifty-v2.9.1\nifty.js" />
+    <Content Include="Scripts\nifty-v2.9.1\nifty.min.js" />
+    <Content Include="Scripts\pdf.min.js" />
+    <Content Include="Scripts\pdf.worker.min.js" />
+    <Content Include="Scripts\vue.js" />
+    <Content Include="Scripts\vue.min.js" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
     <Content Include="Scripts\WebForms\GridView.js" />
@@ -155,6 +217,7 @@
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
     <Content Include="TestUploadForm.aspx" />
+    <Content Include="TestUploadForm2.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -209,6 +272,13 @@
     <Compile Include="TestUploadForm.aspx.designer.cs">
       <DependentUpon>TestUploadForm.aspx</DependentUpon>
     </Compile>
+    <Compile Include="TestUploadForm2.aspx.cs">
+      <DependentUpon>TestUploadForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestUploadForm2.aspx.designer.cs">
+      <DependentUpon>TestUploadForm2.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -222,8 +292,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
-    <Content Include="Scripts\jquery-3.4.1.min.map" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
