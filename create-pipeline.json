@@ -1,6 +1,6 @@
 {
   "pipeline": {
-    "roleArn": "arn:aws:iam::072852249607:role/AWSCodePipeline_FullAccess",
+    "roleArn": "arn:aws:iam::072852249607:role/AWS-CodePipeline-CodeBuild-Service-Role",
     "stages": [
       {
         "name": "Source",
